@@ -12,7 +12,7 @@
 - Exploring **IoT** and how tech can solve real-world problems, especially in rural communities.  
 
 ### 🌱 Currently Learning
-- Advanced **React & Node.js** patterns  
+- Advanced ** JAVA (DSA) and React & Node.js** 
 - **System Design** principles  
 - **Python** for automation and data science  
 
@@ -34,9 +34,9 @@
 - Interested in **web dev projects**, IoT, or content creation (tech/science).  
 
 ### 📫 Reach Me
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: your.email@example.com  
-- **Twitter**: [@YourHandle] (if applicable)  
+- **LinkedIn**:https://www.linkedin.com/in/gopi-s-95649a261/  
+- **Email**: gopisettu3011@gmail.com  
+
 
 ### ⚡ Fun Fact  
 I’m obsessed with **space physics** and once tried to explain black holes to my cat. (Spoiler: She wasn’t impressed.) 😄 
