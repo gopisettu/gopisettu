@@ -16,12 +16,14 @@
 - **System Design** principles  
 - **Python** for automation and data science  
 
+
 ### 💻 Tech Stack
-**Languages**: Java, JavaScript, C  
-**Frontend**: React, HTML/CSS  
-**Backend**: Node.js, Express  
-**Database**: MongoDB  
-**Tools**: Git, VS Code  
+
+| Languages         | Frontend            | Backend          | Database    | Tools               |
+|-------------------|---------------------|------------------|-------------|---------------------|
+| Java, JavaScript, C| React, HTML/CSS     | Node.js, Express | MongoDB     | Git, VS Code        |
+| PHP, Angular.js, Bootstrap, jQuery | AWS, Docker, Figma | Apache, MySQL | Matplotlib, GitHub  |
+
 
 ### 🏆 Passions & Achievements
 - **Fitness**: Lost 10kg in 6 months through discipline! 🏋️  
